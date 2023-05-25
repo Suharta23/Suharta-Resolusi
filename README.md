@@ -1,2 +1,2 @@
 # Suharta-Resolusi
-Repositori untuk pembelajaran
+Repository untuk pembelajaran
